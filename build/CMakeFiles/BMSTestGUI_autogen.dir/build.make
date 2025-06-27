@@ -53,10 +53,10 @@ RM = /home/pie/st/stm32cubeclt_1.18.0/CMake/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/pie/Documents/Repos/BMS-Test-GUI
+CMAKE_SOURCE_DIR = /home/pie/Documents/BMS-Test-GUI
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/pie/Documents/Repos/BMS-Test-GUI/build
+CMAKE_BINARY_DIR = /home/pie/Documents/BMS-Test-GUI/build
 
 # Utility rule file for BMSTestGUI_autogen.
 
@@ -70,9 +70,9 @@ CMakeFiles/BMSTestGUI_autogen: BMSTestGUI_autogen/timestamp
 
 BMSTestGUI_autogen/timestamp: /usr/lib/qt6/libexec/moc
 BMSTestGUI_autogen/timestamp: CMakeFiles/BMSTestGUI_autogen.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/pie/Documents/Repos/BMS-Test-GUI/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC for target BMSTestGUI"
-	/home/pie/st/stm32cubeclt_1.18.0/CMake/bin/cmake -E cmake_autogen /home/pie/Documents/Repos/BMS-Test-GUI/build/CMakeFiles/BMSTestGUI_autogen.dir/AutogenInfo.json Debug
-	/home/pie/st/stm32cubeclt_1.18.0/CMake/bin/cmake -E touch /home/pie/Documents/Repos/BMS-Test-GUI/build/BMSTestGUI_autogen/timestamp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/pie/Documents/BMS-Test-GUI/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC for target BMSTestGUI"
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/bin/cmake -E cmake_autogen /home/pie/Documents/BMS-Test-GUI/build/CMakeFiles/BMSTestGUI_autogen.dir/AutogenInfo.json ""
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/bin/cmake -E touch /home/pie/Documents/BMS-Test-GUI/build/BMSTestGUI_autogen/timestamp
 
 BMSTestGUI_autogen: BMSTestGUI_autogen/timestamp
 BMSTestGUI_autogen: CMakeFiles/BMSTestGUI_autogen
@@ -88,6 +88,6 @@ CMakeFiles/BMSTestGUI_autogen.dir/clean:
 .PHONY : CMakeFiles/BMSTestGUI_autogen.dir/clean
 
 CMakeFiles/BMSTestGUI_autogen.dir/depend:
-	cd /home/pie/Documents/Repos/BMS-Test-GUI/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/pie/Documents/Repos/BMS-Test-GUI /home/pie/Documents/Repos/BMS-Test-GUI /home/pie/Documents/Repos/BMS-Test-GUI/build /home/pie/Documents/Repos/BMS-Test-GUI/build /home/pie/Documents/Repos/BMS-Test-GUI/build/CMakeFiles/BMSTestGUI_autogen.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/pie/Documents/BMS-Test-GUI/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/pie/Documents/BMS-Test-GUI /home/pie/Documents/BMS-Test-GUI /home/pie/Documents/BMS-Test-GUI/build /home/pie/Documents/BMS-Test-GUI/build /home/pie/Documents/BMS-Test-GUI/build/CMakeFiles/BMSTestGUI_autogen.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/BMSTestGUI_autogen.dir/depend
 

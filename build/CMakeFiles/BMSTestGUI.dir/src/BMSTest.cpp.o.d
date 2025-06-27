@@ -1,7 +1,7 @@
 CMakeFiles/BMSTestGUI.dir/src/BMSTest.cpp.o: \
- /home/pie/Documents/Repos/BMS-Test-GUI/src/BMSTest.cpp \
+ /home/pie/Documents/BMS-Test-GUI/src/BMSTest.cpp \
  /usr/include/stdc-predef.h \
- /home/pie/Documents/Repos/BMS-Test-GUI/src/../inc/BMSTest.h \
+ /home/pie/Documents/BMS-Test-GUI/src/../inc/BMSTest.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QThread \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qthread.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qobject.h \
@@ -291,7 +291,11 @@ CMakeFiles/BMSTestGUI.dir/src/BMSTest.cpp.o: \
  /usr/include/c++/13/bits/std_thread.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QObject \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qobject.h \
- /home/pie/Documents/Repos/BMS-Test-GUI/src/../inc/../inc/RelayController.h \
+ /usr/include/x86_64-linux-gnu/qt6/QtCore/QVector \
+ /usr/include/x86_64-linux-gnu/qt6/QtCore/qvector.h \
+ /usr/include/x86_64-linux-gnu/qt6/QtCore/QString \
+ /usr/include/x86_64-linux-gnu/qt6/QtCore/qstring.h \
+ /home/pie/Documents/BMS-Test-GUI/src/../inc/../inc/RelayController.h \
  /usr/include/c++/13/iostream /usr/include/c++/13/ostream \
  /usr/include/c++/13/ios /usr/include/c++/13/bits/basic_ios.h \
  /usr/include/c++/13/bits/locale_facets.h /usr/include/c++/13/cwctype \
@@ -317,7 +321,7 @@ CMakeFiles/BMSTestGUI.dir/src/BMSTest.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/termios-tcflow.h \
  /usr/include/x86_64-linux-gnu/bits/termios-misc.h \
  /usr/include/x86_64-linux-gnu/sys/ttydefaults.h \
- /home/pie/Documents/Repos/BMS-Test-GUI/src/../inc/../inc/DAQ.h \
+ /home/pie/Documents/BMS-Test-GUI/src/../inc/../inc/DAQ.h \
  /usr/include/c++/13/fstream /usr/include/c++/13/bits/codecvt.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/basic_file.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++io.h \

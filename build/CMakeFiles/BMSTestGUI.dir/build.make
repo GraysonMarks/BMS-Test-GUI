@@ -53,10 +53,10 @@ RM = /home/pie/st/stm32cubeclt_1.18.0/CMake/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/pie/Documents/Repos/BMS-Test-GUI
+CMAKE_SOURCE_DIR = /home/pie/Documents/BMS-Test-GUI
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/pie/Documents/Repos/BMS-Test-GUI/build
+CMAKE_BINARY_DIR = /home/pie/Documents/BMS-Test-GUI/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/BMSTestGUI.dir/depend.make
@@ -72,86 +72,86 @@ include CMakeFiles/BMSTestGUI.dir/flags.make
 CMakeFiles/BMSTestGUI.dir/BMSTestGUI_autogen/mocs_compilation.cpp.o: CMakeFiles/BMSTestGUI.dir/flags.make
 CMakeFiles/BMSTestGUI.dir/BMSTestGUI_autogen/mocs_compilation.cpp.o: BMSTestGUI_autogen/mocs_compilation.cpp
 CMakeFiles/BMSTestGUI.dir/BMSTestGUI_autogen/mocs_compilation.cpp.o: CMakeFiles/BMSTestGUI.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/pie/Documents/Repos/BMS-Test-GUI/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/BMSTestGUI.dir/BMSTestGUI_autogen/mocs_compilation.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/BMSTestGUI.dir/BMSTestGUI_autogen/mocs_compilation.cpp.o -MF CMakeFiles/BMSTestGUI.dir/BMSTestGUI_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/BMSTestGUI.dir/BMSTestGUI_autogen/mocs_compilation.cpp.o -c /home/pie/Documents/Repos/BMS-Test-GUI/build/BMSTestGUI_autogen/mocs_compilation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/pie/Documents/BMS-Test-GUI/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/BMSTestGUI.dir/BMSTestGUI_autogen/mocs_compilation.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/BMSTestGUI.dir/BMSTestGUI_autogen/mocs_compilation.cpp.o -MF CMakeFiles/BMSTestGUI.dir/BMSTestGUI_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/BMSTestGUI.dir/BMSTestGUI_autogen/mocs_compilation.cpp.o -c /home/pie/Documents/BMS-Test-GUI/build/BMSTestGUI_autogen/mocs_compilation.cpp
 
 CMakeFiles/BMSTestGUI.dir/BMSTestGUI_autogen/mocs_compilation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/BMSTestGUI.dir/BMSTestGUI_autogen/mocs_compilation.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/pie/Documents/Repos/BMS-Test-GUI/build/BMSTestGUI_autogen/mocs_compilation.cpp > CMakeFiles/BMSTestGUI.dir/BMSTestGUI_autogen/mocs_compilation.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/pie/Documents/BMS-Test-GUI/build/BMSTestGUI_autogen/mocs_compilation.cpp > CMakeFiles/BMSTestGUI.dir/BMSTestGUI_autogen/mocs_compilation.cpp.i
 
 CMakeFiles/BMSTestGUI.dir/BMSTestGUI_autogen/mocs_compilation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/BMSTestGUI.dir/BMSTestGUI_autogen/mocs_compilation.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/pie/Documents/Repos/BMS-Test-GUI/build/BMSTestGUI_autogen/mocs_compilation.cpp -o CMakeFiles/BMSTestGUI.dir/BMSTestGUI_autogen/mocs_compilation.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/pie/Documents/BMS-Test-GUI/build/BMSTestGUI_autogen/mocs_compilation.cpp -o CMakeFiles/BMSTestGUI.dir/BMSTestGUI_autogen/mocs_compilation.cpp.s
 
 CMakeFiles/BMSTestGUI.dir/src/main.cpp.o: CMakeFiles/BMSTestGUI.dir/flags.make
-CMakeFiles/BMSTestGUI.dir/src/main.cpp.o: /home/pie/Documents/Repos/BMS-Test-GUI/src/main.cpp
+CMakeFiles/BMSTestGUI.dir/src/main.cpp.o: /home/pie/Documents/BMS-Test-GUI/src/main.cpp
 CMakeFiles/BMSTestGUI.dir/src/main.cpp.o: CMakeFiles/BMSTestGUI.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/pie/Documents/Repos/BMS-Test-GUI/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/BMSTestGUI.dir/src/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/BMSTestGUI.dir/src/main.cpp.o -MF CMakeFiles/BMSTestGUI.dir/src/main.cpp.o.d -o CMakeFiles/BMSTestGUI.dir/src/main.cpp.o -c /home/pie/Documents/Repos/BMS-Test-GUI/src/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/pie/Documents/BMS-Test-GUI/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/BMSTestGUI.dir/src/main.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/BMSTestGUI.dir/src/main.cpp.o -MF CMakeFiles/BMSTestGUI.dir/src/main.cpp.o.d -o CMakeFiles/BMSTestGUI.dir/src/main.cpp.o -c /home/pie/Documents/BMS-Test-GUI/src/main.cpp
 
 CMakeFiles/BMSTestGUI.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/BMSTestGUI.dir/src/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/pie/Documents/Repos/BMS-Test-GUI/src/main.cpp > CMakeFiles/BMSTestGUI.dir/src/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/pie/Documents/BMS-Test-GUI/src/main.cpp > CMakeFiles/BMSTestGUI.dir/src/main.cpp.i
 
 CMakeFiles/BMSTestGUI.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/BMSTestGUI.dir/src/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/pie/Documents/Repos/BMS-Test-GUI/src/main.cpp -o CMakeFiles/BMSTestGUI.dir/src/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/pie/Documents/BMS-Test-GUI/src/main.cpp -o CMakeFiles/BMSTestGUI.dir/src/main.cpp.s
 
 CMakeFiles/BMSTestGUI.dir/src/MainWindow.cpp.o: CMakeFiles/BMSTestGUI.dir/flags.make
-CMakeFiles/BMSTestGUI.dir/src/MainWindow.cpp.o: /home/pie/Documents/Repos/BMS-Test-GUI/src/MainWindow.cpp
+CMakeFiles/BMSTestGUI.dir/src/MainWindow.cpp.o: /home/pie/Documents/BMS-Test-GUI/src/MainWindow.cpp
 CMakeFiles/BMSTestGUI.dir/src/MainWindow.cpp.o: CMakeFiles/BMSTestGUI.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/pie/Documents/Repos/BMS-Test-GUI/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/BMSTestGUI.dir/src/MainWindow.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/BMSTestGUI.dir/src/MainWindow.cpp.o -MF CMakeFiles/BMSTestGUI.dir/src/MainWindow.cpp.o.d -o CMakeFiles/BMSTestGUI.dir/src/MainWindow.cpp.o -c /home/pie/Documents/Repos/BMS-Test-GUI/src/MainWindow.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/pie/Documents/BMS-Test-GUI/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/BMSTestGUI.dir/src/MainWindow.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/BMSTestGUI.dir/src/MainWindow.cpp.o -MF CMakeFiles/BMSTestGUI.dir/src/MainWindow.cpp.o.d -o CMakeFiles/BMSTestGUI.dir/src/MainWindow.cpp.o -c /home/pie/Documents/BMS-Test-GUI/src/MainWindow.cpp
 
 CMakeFiles/BMSTestGUI.dir/src/MainWindow.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/BMSTestGUI.dir/src/MainWindow.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/pie/Documents/Repos/BMS-Test-GUI/src/MainWindow.cpp > CMakeFiles/BMSTestGUI.dir/src/MainWindow.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/pie/Documents/BMS-Test-GUI/src/MainWindow.cpp > CMakeFiles/BMSTestGUI.dir/src/MainWindow.cpp.i
 
 CMakeFiles/BMSTestGUI.dir/src/MainWindow.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/BMSTestGUI.dir/src/MainWindow.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/pie/Documents/Repos/BMS-Test-GUI/src/MainWindow.cpp -o CMakeFiles/BMSTestGUI.dir/src/MainWindow.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/pie/Documents/BMS-Test-GUI/src/MainWindow.cpp -o CMakeFiles/BMSTestGUI.dir/src/MainWindow.cpp.s
 
 CMakeFiles/BMSTestGUI.dir/src/BMSTest.cpp.o: CMakeFiles/BMSTestGUI.dir/flags.make
-CMakeFiles/BMSTestGUI.dir/src/BMSTest.cpp.o: /home/pie/Documents/Repos/BMS-Test-GUI/src/BMSTest.cpp
+CMakeFiles/BMSTestGUI.dir/src/BMSTest.cpp.o: /home/pie/Documents/BMS-Test-GUI/src/BMSTest.cpp
 CMakeFiles/BMSTestGUI.dir/src/BMSTest.cpp.o: CMakeFiles/BMSTestGUI.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/pie/Documents/Repos/BMS-Test-GUI/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/BMSTestGUI.dir/src/BMSTest.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/BMSTestGUI.dir/src/BMSTest.cpp.o -MF CMakeFiles/BMSTestGUI.dir/src/BMSTest.cpp.o.d -o CMakeFiles/BMSTestGUI.dir/src/BMSTest.cpp.o -c /home/pie/Documents/Repos/BMS-Test-GUI/src/BMSTest.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/pie/Documents/BMS-Test-GUI/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/BMSTestGUI.dir/src/BMSTest.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/BMSTestGUI.dir/src/BMSTest.cpp.o -MF CMakeFiles/BMSTestGUI.dir/src/BMSTest.cpp.o.d -o CMakeFiles/BMSTestGUI.dir/src/BMSTest.cpp.o -c /home/pie/Documents/BMS-Test-GUI/src/BMSTest.cpp
 
 CMakeFiles/BMSTestGUI.dir/src/BMSTest.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/BMSTestGUI.dir/src/BMSTest.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/pie/Documents/Repos/BMS-Test-GUI/src/BMSTest.cpp > CMakeFiles/BMSTestGUI.dir/src/BMSTest.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/pie/Documents/BMS-Test-GUI/src/BMSTest.cpp > CMakeFiles/BMSTestGUI.dir/src/BMSTest.cpp.i
 
 CMakeFiles/BMSTestGUI.dir/src/BMSTest.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/BMSTestGUI.dir/src/BMSTest.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/pie/Documents/Repos/BMS-Test-GUI/src/BMSTest.cpp -o CMakeFiles/BMSTestGUI.dir/src/BMSTest.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/pie/Documents/BMS-Test-GUI/src/BMSTest.cpp -o CMakeFiles/BMSTestGUI.dir/src/BMSTest.cpp.s
 
 CMakeFiles/BMSTestGUI.dir/src/RelayController.cpp.o: CMakeFiles/BMSTestGUI.dir/flags.make
-CMakeFiles/BMSTestGUI.dir/src/RelayController.cpp.o: /home/pie/Documents/Repos/BMS-Test-GUI/src/RelayController.cpp
+CMakeFiles/BMSTestGUI.dir/src/RelayController.cpp.o: /home/pie/Documents/BMS-Test-GUI/src/RelayController.cpp
 CMakeFiles/BMSTestGUI.dir/src/RelayController.cpp.o: CMakeFiles/BMSTestGUI.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/pie/Documents/Repos/BMS-Test-GUI/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/BMSTestGUI.dir/src/RelayController.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/BMSTestGUI.dir/src/RelayController.cpp.o -MF CMakeFiles/BMSTestGUI.dir/src/RelayController.cpp.o.d -o CMakeFiles/BMSTestGUI.dir/src/RelayController.cpp.o -c /home/pie/Documents/Repos/BMS-Test-GUI/src/RelayController.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/pie/Documents/BMS-Test-GUI/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/BMSTestGUI.dir/src/RelayController.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/BMSTestGUI.dir/src/RelayController.cpp.o -MF CMakeFiles/BMSTestGUI.dir/src/RelayController.cpp.o.d -o CMakeFiles/BMSTestGUI.dir/src/RelayController.cpp.o -c /home/pie/Documents/BMS-Test-GUI/src/RelayController.cpp
 
 CMakeFiles/BMSTestGUI.dir/src/RelayController.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/BMSTestGUI.dir/src/RelayController.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/pie/Documents/Repos/BMS-Test-GUI/src/RelayController.cpp > CMakeFiles/BMSTestGUI.dir/src/RelayController.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/pie/Documents/BMS-Test-GUI/src/RelayController.cpp > CMakeFiles/BMSTestGUI.dir/src/RelayController.cpp.i
 
 CMakeFiles/BMSTestGUI.dir/src/RelayController.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/BMSTestGUI.dir/src/RelayController.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/pie/Documents/Repos/BMS-Test-GUI/src/RelayController.cpp -o CMakeFiles/BMSTestGUI.dir/src/RelayController.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/pie/Documents/BMS-Test-GUI/src/RelayController.cpp -o CMakeFiles/BMSTestGUI.dir/src/RelayController.cpp.s
 
 CMakeFiles/BMSTestGUI.dir/src/DAQ.cpp.o: CMakeFiles/BMSTestGUI.dir/flags.make
-CMakeFiles/BMSTestGUI.dir/src/DAQ.cpp.o: /home/pie/Documents/Repos/BMS-Test-GUI/src/DAQ.cpp
+CMakeFiles/BMSTestGUI.dir/src/DAQ.cpp.o: /home/pie/Documents/BMS-Test-GUI/src/DAQ.cpp
 CMakeFiles/BMSTestGUI.dir/src/DAQ.cpp.o: CMakeFiles/BMSTestGUI.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/pie/Documents/Repos/BMS-Test-GUI/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/BMSTestGUI.dir/src/DAQ.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/BMSTestGUI.dir/src/DAQ.cpp.o -MF CMakeFiles/BMSTestGUI.dir/src/DAQ.cpp.o.d -o CMakeFiles/BMSTestGUI.dir/src/DAQ.cpp.o -c /home/pie/Documents/Repos/BMS-Test-GUI/src/DAQ.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/pie/Documents/BMS-Test-GUI/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/BMSTestGUI.dir/src/DAQ.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/BMSTestGUI.dir/src/DAQ.cpp.o -MF CMakeFiles/BMSTestGUI.dir/src/DAQ.cpp.o.d -o CMakeFiles/BMSTestGUI.dir/src/DAQ.cpp.o -c /home/pie/Documents/BMS-Test-GUI/src/DAQ.cpp
 
 CMakeFiles/BMSTestGUI.dir/src/DAQ.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/BMSTestGUI.dir/src/DAQ.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/pie/Documents/Repos/BMS-Test-GUI/src/DAQ.cpp > CMakeFiles/BMSTestGUI.dir/src/DAQ.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/pie/Documents/BMS-Test-GUI/src/DAQ.cpp > CMakeFiles/BMSTestGUI.dir/src/DAQ.cpp.i
 
 CMakeFiles/BMSTestGUI.dir/src/DAQ.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/BMSTestGUI.dir/src/DAQ.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/pie/Documents/Repos/BMS-Test-GUI/src/DAQ.cpp -o CMakeFiles/BMSTestGUI.dir/src/DAQ.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/pie/Documents/BMS-Test-GUI/src/DAQ.cpp -o CMakeFiles/BMSTestGUI.dir/src/DAQ.cpp.s
 
 # Object files for target BMSTestGUI
 BMSTestGUI_OBJECTS = \
@@ -179,7 +179,7 @@ BMSTestGUI: /usr/lib/x86_64-linux-gnu/libGLX.so
 BMSTestGUI: /usr/lib/x86_64-linux-gnu/libOpenGL.so
 BMSTestGUI: /usr/lib/x86_64-linux-gnu/libQt6Core.so.6.4.2
 BMSTestGUI: CMakeFiles/BMSTestGUI.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/pie/Documents/Repos/BMS-Test-GUI/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable BMSTestGUI"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/pie/Documents/BMS-Test-GUI/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable BMSTestGUI"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/BMSTestGUI.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -191,6 +191,6 @@ CMakeFiles/BMSTestGUI.dir/clean:
 .PHONY : CMakeFiles/BMSTestGUI.dir/clean
 
 CMakeFiles/BMSTestGUI.dir/depend:
-	cd /home/pie/Documents/Repos/BMS-Test-GUI/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/pie/Documents/Repos/BMS-Test-GUI /home/pie/Documents/Repos/BMS-Test-GUI /home/pie/Documents/Repos/BMS-Test-GUI/build /home/pie/Documents/Repos/BMS-Test-GUI/build /home/pie/Documents/Repos/BMS-Test-GUI/build/CMakeFiles/BMSTestGUI.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/pie/Documents/BMS-Test-GUI/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/pie/Documents/BMS-Test-GUI /home/pie/Documents/BMS-Test-GUI /home/pie/Documents/BMS-Test-GUI/build /home/pie/Documents/BMS-Test-GUI/build /home/pie/Documents/BMS-Test-GUI/build/CMakeFiles/BMSTestGUI.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/BMSTestGUI.dir/depend
 

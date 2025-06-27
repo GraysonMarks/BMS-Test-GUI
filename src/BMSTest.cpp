@@ -100,8 +100,8 @@ void BMSTest::run() {
             ++cycleCounts_[idx];
             bool alive = true;
             if (v < threshold_ && v != 0.0f) {
-                dead_[idx] = false;
-                alive    = true;
+                dead_[idx] = true;
+                alive    = false;
                 emit logMessage(
                     QString("Relay %1 died at V=%2").arg(relayId).arg(v)
                 );

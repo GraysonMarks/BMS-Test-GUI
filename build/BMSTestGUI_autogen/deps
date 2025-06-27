@@ -1,37 +1,112 @@
 BMSTestGUI_autogen/timestamp: \
-	/home/pie/Documents/Repos/BMS-Test-GUI/CMakeLists.txt \
-	/home/pie/Documents/Repos/BMS-Test-GUI/build/BMSTestGUI_autogen/moc_predefs.h \
-	/home/pie/Documents/Repos/BMS-Test-GUI/build/CMakeFiles/3.28.1/CMakeCCompiler.cmake \
-	/home/pie/Documents/Repos/BMS-Test-GUI/build/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake \
-	/home/pie/Documents/Repos/BMS-Test-GUI/build/CMakeFiles/3.28.1/CMakeSystem.cmake \
-	/home/pie/Documents/Repos/BMS-Test-GUI/inc/BMSTest.h \
-	/home/pie/Documents/Repos/BMS-Test-GUI/inc/DAQ.h \
-	/home/pie/Documents/Repos/BMS-Test-GUI/inc/MainWindow.h \
-	/home/pie/Documents/Repos/BMS-Test-GUI/inc/RelayController.h \
-	/home/pie/Documents/Repos/BMS-Test-GUI/src/BMSTest.cpp \
-	/home/pie/Documents/Repos/BMS-Test-GUI/src/DAQ.cpp \
-	/home/pie/Documents/Repos/BMS-Test-GUI/src/MainWindow.cpp \
-	/home/pie/Documents/Repos/BMS-Test-GUI/src/RelayController.cpp \
-	/home/pie/Documents/Repos/BMS-Test-GUI/src/main.cpp \
+	/home/pie/Documents/BMS-Test-GUI/CMakeLists.txt \
+	/home/pie/Documents/BMS-Test-GUI/build/BMSTestGUI_autogen/moc_predefs.h \
+	/home/pie/Documents/BMS-Test-GUI/build/CMakeFiles/3.28.1/CMakeCCompiler.cmake \
+	/home/pie/Documents/BMS-Test-GUI/build/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake \
+	/home/pie/Documents/BMS-Test-GUI/build/CMakeFiles/3.28.1/CMakeSystem.cmake \
+	/home/pie/Documents/BMS-Test-GUI/inc/BMSTest.h \
+	/home/pie/Documents/BMS-Test-GUI/inc/DAQ.h \
+	/home/pie/Documents/BMS-Test-GUI/inc/MainWindow.h \
+	/home/pie/Documents/BMS-Test-GUI/inc/RelayController.h \
+	/home/pie/Documents/BMS-Test-GUI/src/BMSTest.cpp \
+	/home/pie/Documents/BMS-Test-GUI/src/DAQ.cpp \
+	/home/pie/Documents/BMS-Test-GUI/src/MainWindow.cpp \
+	/home/pie/Documents/BMS-Test-GUI/src/RelayController.cpp \
+	/home/pie/Documents/BMS-Test-GUI/src/main.cpp \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeCCompiler.cmake.in \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeCCompilerABI.c \
 	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeCInformation.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeCXXCompiler.cmake.in \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeCXXCompilerABI.cpp \
 	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeCXXInformation.cmake \
 	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake \
 	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeCompilerIdDetection.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeDetermineCompileFeatures.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeDetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeDetermineSystem.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeFindBinUtils.cmake \
 	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake \
 	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeGenericSystem.cmake \
 	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake \
 	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeParseImplicitIncludeInfo.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeParseImplicitLinkInfo.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeParseLibraryArchitecture.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeSystem.cmake.in \
 	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake \
 	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeTestCCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeTestCXXCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeTestCompilerCommon.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeUnixFindMake.cmake \
 	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake \
 	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CheckCXXCompilerFlag.cmake \
 	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CheckCXXSourceCompiles.cmake \
 	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CheckIncludeFile.cmake \
 	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CheckLibraryExists.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/ADSP-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/ARMCC-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/ARMClang-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/AppleClang-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/Borland-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/Bruce-C-DetermineCompiler.cmake \
 	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/Clang-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/Clang-DetermineCompilerInternal.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/Compaq-C-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/Cray-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/CrayClang-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/Embarcadero-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/Fujitsu-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/GHS-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/GNU-C-DetermineCompiler.cmake \
 	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/GNU-C.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake \
 	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/GNU-CXX.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/GNU-FindBinUtils.cmake \
 	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/GNU.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/HP-C-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/HP-CXX-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/IAR-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/Intel-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/LCC-C-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/MSVC-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/NVHPC-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/NVIDIA-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/OrangeC-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/PGI-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/PathScale-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/SCO-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/SDCC-C-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/SunPro-C-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/TI-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/Tasking-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/Watcom-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/XL-C-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/XL-CXX-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/XLClang-C-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/zOS-C-DetermineCompiler.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake \
 	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/FeatureSummary.cmake \
 	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/FindOpenGL.cmake \
 	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake \
@@ -43,7 +118,9 @@ BMSTestGUI_autogen/timestamp: \
 	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Internal/CheckCompilerFlag.cmake \
 	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Internal/CheckFlagCommonConfig.cmake \
 	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Internal/FeatureTesting.cmake \
 	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/MacroAddFileDependencies.cmake \
+	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Platform/Linux-Determine-CXX.cmake \
 	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Platform/Linux-GNU-C.cmake \
 	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Platform/Linux-GNU-CXX.cmake \
 	/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Platform/Linux-GNU.cmake \
@@ -360,7 +437,10 @@ BMSTestGUI_autogen/timestamp: \
 	/usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
 	/usr/include/x86_64-linux-gnu/gnu/stubs.h \
 	/usr/include/x86_64-linux-gnu/qt6/QtCore/QObject \
+	/usr/include/x86_64-linux-gnu/qt6/QtCore/QString \
 	/usr/include/x86_64-linux-gnu/qt6/QtCore/QThread \
+	/usr/include/x86_64-linux-gnu/qt6/QtCore/QTimer \
+	/usr/include/x86_64-linux-gnu/qt6/QtCore/QVector \
 	/usr/include/x86_64-linux-gnu/qt6/QtCore/qabstractitemmodel.h \
 	/usr/include/x86_64-linux-gnu/qt6/QtCore/qalgorithms.h \
 	/usr/include/x86_64-linux-gnu/qt6/QtCore/qanystringview.h \
@@ -370,6 +450,7 @@ BMSTestGUI_autogen/timestamp: \
 	/usr/include/x86_64-linux-gnu/qt6/QtCore/qatomic.h \
 	/usr/include/x86_64-linux-gnu/qt6/QtCore/qatomic_cxx11.h \
 	/usr/include/x86_64-linux-gnu/qt6/QtCore/qbasicatomic.h \
+	/usr/include/x86_64-linux-gnu/qt6/QtCore/qbasictimer.h \
 	/usr/include/x86_64-linux-gnu/qt6/QtCore/qbindingstorage.h \
 	/usr/include/x86_64-linux-gnu/qt6/QtCore/qbytearray.h \
 	/usr/include/x86_64-linux-gnu/qt6/QtCore/qbytearrayalgorithms.h \
@@ -395,6 +476,7 @@ BMSTestGUI_autogen/timestamp: \
 	/usr/include/x86_64-linux-gnu/qt6/QtCore/qglobalstatic.h \
 	/usr/include/x86_64-linux-gnu/qt6/QtCore/qhash.h \
 	/usr/include/x86_64-linux-gnu/qt6/QtCore/qhashfunctions.h \
+	/usr/include/x86_64-linux-gnu/qt6/QtCore/qiodevice.h \
 	/usr/include/x86_64-linux-gnu/qt6/QtCore/qiodevicebase.h \
 	/usr/include/x86_64-linux-gnu/qt6/QtCore/qitemselectionmodel.h \
 	/usr/include/x86_64-linux-gnu/qt6/QtCore/qiterable.h \
@@ -445,12 +527,14 @@ BMSTestGUI_autogen/timestamp: \
 	/usr/include/x86_64-linux-gnu/qt6/QtCore/qtcoreexports.h \
 	/usr/include/x86_64-linux-gnu/qt6/QtCore/qtextstream.h \
 	/usr/include/x86_64-linux-gnu/qt6/QtCore/qthread.h \
+	/usr/include/x86_64-linux-gnu/qt6/QtCore/qtimer.h \
 	/usr/include/x86_64-linux-gnu/qt6/QtCore/qtmetamacros.h \
 	/usr/include/x86_64-linux-gnu/qt6/QtCore/qtypeinfo.h \
 	/usr/include/x86_64-linux-gnu/qt6/QtCore/qurl.h \
 	/usr/include/x86_64-linux-gnu/qt6/QtCore/qutf8stringview.h \
 	/usr/include/x86_64-linux-gnu/qt6/QtCore/qvariant.h \
 	/usr/include/x86_64-linux-gnu/qt6/QtCore/qvarlengtharray.h \
+	/usr/include/x86_64-linux-gnu/qt6/QtCore/qvector.h \
 	/usr/include/x86_64-linux-gnu/qt6/QtCore/qversiontagging.h \
 	/usr/include/x86_64-linux-gnu/qt6/QtGui/qaction.h \
 	/usr/include/x86_64-linux-gnu/qt6/QtGui/qbitmap.h \
@@ -466,6 +550,7 @@ BMSTestGUI_autogen/timestamp: \
 	/usr/include/x86_64-linux-gnu/qt6/QtGui/qpaintdevice.h \
 	/usr/include/x86_64-linux-gnu/qt6/QtGui/qpalette.h \
 	/usr/include/x86_64-linux-gnu/qt6/QtGui/qpen.h \
+	/usr/include/x86_64-linux-gnu/qt6/QtGui/qpicture.h \
 	/usr/include/x86_64-linux-gnu/qt6/QtGui/qpixelformat.h \
 	/usr/include/x86_64-linux-gnu/qt6/QtGui/qpixmap.h \
 	/usr/include/x86_64-linux-gnu/qt6/QtGui/qpolygon.h \
@@ -483,6 +568,7 @@ BMSTestGUI_autogen/timestamp: \
 	/usr/include/x86_64-linux-gnu/qt6/QtGui/qvalidator.h \
 	/usr/include/x86_64-linux-gnu/qt6/QtGui/qwindowdefs.h \
 	/usr/include/x86_64-linux-gnu/qt6/QtWidgets/QComboBox \
+	/usr/include/x86_64-linux-gnu/qt6/QtWidgets/QLabel \
 	/usr/include/x86_64-linux-gnu/qt6/QtWidgets/QMainWindow \
 	/usr/include/x86_64-linux-gnu/qt6/QtWidgets/QPushButton \
 	/usr/include/x86_64-linux-gnu/qt6/QtWidgets/QSpinBox \
@@ -496,6 +582,7 @@ BMSTestGUI_autogen/timestamp: \
 	/usr/include/x86_64-linux-gnu/qt6/QtWidgets/qabstractspinbox.h \
 	/usr/include/x86_64-linux-gnu/qt6/QtWidgets/qcombobox.h \
 	/usr/include/x86_64-linux-gnu/qt6/QtWidgets/qframe.h \
+	/usr/include/x86_64-linux-gnu/qt6/QtWidgets/qlabel.h \
 	/usr/include/x86_64-linux-gnu/qt6/QtWidgets/qmainwindow.h \
 	/usr/include/x86_64-linux-gnu/qt6/QtWidgets/qpushbutton.h \
 	/usr/include/x86_64-linux-gnu/qt6/QtWidgets/qrubberband.h \

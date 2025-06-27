@@ -27,46 +27,88 @@ QT_WARNING_PUSH
 QT_WARNING_DISABLE_DEPRECATED
 namespace {
 struct qt_meta_stringdata_MainWindow_t {
-    uint offsetsAndSizes[22];
+    uint offsetsAndSizes[50];
     char stringdata0[11];
-    char stringdata1[15];
+    char stringdata1[22];
     char stringdata2[1];
-    char stringdata3[14];
-    char stringdata4[18];
-    char stringdata5[3];
-    char stringdata6[6];
-    char stringdata7[6];
-    char stringdata8[10];
-    char stringdata9[4];
-    char stringdata10[15];
+    char stringdata3[20];
+    char stringdata4[15];
+    char stringdata5[14];
+    char stringdata6[20];
+    char stringdata7[18];
+    char stringdata8[5];
+    char stringdata9[19];
+    char stringdata10[6];
+    char stringdata11[17];
+    char stringdata12[18];
+    char stringdata13[3];
+    char stringdata14[6];
+    char stringdata15[6];
+    char stringdata16[10];
+    char stringdata17[4];
+    char stringdata18[15];
+    char stringdata19[8];
+    char stringdata20[22];
+    char stringdata21[10];
+    char stringdata22[20];
+    char stringdata23[8];
+    char stringdata24[16];
 };
 #define QT_MOC_LITERAL(ofs, len) \
     uint(sizeof(qt_meta_stringdata_MainWindow_t::offsetsAndSizes) + ofs), len 
 Q_CONSTINIT static const qt_meta_stringdata_MainWindow_t qt_meta_stringdata_MainWindow = {
     {
         QT_MOC_LITERAL(0, 10),  // "MainWindow"
-        QT_MOC_LITERAL(11, 14),  // "onStartClicked"
-        QT_MOC_LITERAL(26, 0),  // ""
-        QT_MOC_LITERAL(27, 13),  // "onStopClicked"
-        QT_MOC_LITERAL(41, 17),  // "handleRelayUpdate"
-        QT_MOC_LITERAL(59, 2),  // "id"
-        QT_MOC_LITERAL(62, 5),  // "alive"
-        QT_MOC_LITERAL(68, 5),  // "count"
-        QT_MOC_LITERAL(74, 9),  // "handleLog"
-        QT_MOC_LITERAL(84, 3),  // "msg"
-        QT_MOC_LITERAL(88, 14)   // "handleFinished"
+        QT_MOC_LITERAL(11, 21),  // "onRelayConnectClicked"
+        QT_MOC_LITERAL(33, 0),  // ""
+        QT_MOC_LITERAL(34, 19),  // "onDacConnectClicked"
+        QT_MOC_LITERAL(54, 14),  // "onStartClicked"
+        QT_MOC_LITERAL(69, 13),  // "onStopClicked"
+        QT_MOC_LITERAL(83, 19),  // "onTableStateClicked"
+        QT_MOC_LITERAL(103, 17),  // "QTableWidgetItem*"
+        QT_MOC_LITERAL(121, 4),  // "item"
+        QT_MOC_LITERAL(126, 18),  // "handleRelayConnect"
+        QT_MOC_LITERAL(145, 5),  // "state"
+        QT_MOC_LITERAL(151, 16),  // "handleDAQConnect"
+        QT_MOC_LITERAL(168, 17),  // "handleRelayUpdate"
+        QT_MOC_LITERAL(186, 2),  // "id"
+        QT_MOC_LITERAL(189, 5),  // "alive"
+        QT_MOC_LITERAL(195, 5),  // "count"
+        QT_MOC_LITERAL(201, 9),  // "handleLog"
+        QT_MOC_LITERAL(211, 3),  // "msg"
+        QT_MOC_LITERAL(215, 14),  // "handleFinished"
+        QT_MOC_LITERAL(230, 7),  // "allDead"
+        QT_MOC_LITERAL(238, 21),  // "handleCyclesRemaining"
+        QT_MOC_LITERAL(260, 9),  // "remaining"
+        QT_MOC_LITERAL(270, 19),  // "handleTimeRemaining"
+        QT_MOC_LITERAL(290, 7),  // "seconds"
+        QT_MOC_LITERAL(298, 15)   // "updateCountdown"
     },
     "MainWindow",
-    "onStartClicked",
+    "onRelayConnectClicked",
     "",
+    "onDacConnectClicked",
+    "onStartClicked",
     "onStopClicked",
+    "onTableStateClicked",
+    "QTableWidgetItem*",
+    "item",
+    "handleRelayConnect",
+    "state",
+    "handleDAQConnect",
     "handleRelayUpdate",
     "id",
     "alive",
     "count",
     "handleLog",
     "msg",
-    "handleFinished"
+    "handleFinished",
+    "allDead",
+    "handleCyclesRemaining",
+    "remaining",
+    "handleTimeRemaining",
+    "seconds",
+    "updateCountdown"
 };
 #undef QT_MOC_LITERAL
 } // unnamed namespace
@@ -77,7 +119,7 @@ Q_CONSTINIT static const uint qt_meta_data_MainWindow[] = {
       10,       // revision
        0,       // classname
        0,    0, // classinfo
-       5,   14, // methods
+      13,   14, // methods
        0,    0, // properties
        0,    0, // enums/sets
        0,    0, // constructors
@@ -85,18 +127,34 @@ Q_CONSTINIT static const uint qt_meta_data_MainWindow[] = {
        0,       // signalCount
 
  // slots: name, argc, parameters, tag, flags, initial metatype offsets
-       1,    0,   44,    2, 0x08,    1 /* Private */,
-       3,    0,   45,    2, 0x08,    2 /* Private */,
-       4,    3,   46,    2, 0x08,    3 /* Private */,
-       8,    1,   53,    2, 0x08,    7 /* Private */,
-      10,    1,   56,    2, 0x08,    9 /* Private */,
+       1,    0,   92,    2, 0x08,    1 /* Private */,
+       3,    0,   93,    2, 0x08,    2 /* Private */,
+       4,    0,   94,    2, 0x08,    3 /* Private */,
+       5,    0,   95,    2, 0x08,    4 /* Private */,
+       6,    1,   96,    2, 0x08,    5 /* Private */,
+       9,    1,   99,    2, 0x08,    7 /* Private */,
+      11,    1,  102,    2, 0x08,    9 /* Private */,
+      12,    3,  105,    2, 0x08,   11 /* Private */,
+      16,    1,  112,    2, 0x08,   15 /* Private */,
+      18,    1,  115,    2, 0x08,   17 /* Private */,
+      20,    1,  118,    2, 0x08,   19 /* Private */,
+      22,    1,  121,    2, 0x08,   21 /* Private */,
+      24,    0,  124,    2, 0x08,   23 /* Private */,
 
  // slots: parameters
     QMetaType::Void,
     QMetaType::Void,
-    QMetaType::Void, QMetaType::Int, QMetaType::Bool, QMetaType::Int,    5,    6,    7,
-    QMetaType::Void, QMetaType::QString,    9,
-    QMetaType::Void, QMetaType::Bool,    2,
+    QMetaType::Void,
+    QMetaType::Void,
+    QMetaType::Void, 0x80000000 | 7,    8,
+    QMetaType::Void, QMetaType::Bool,   10,
+    QMetaType::Void, QMetaType::Bool,   10,
+    QMetaType::Void, QMetaType::Int, QMetaType::Bool, QMetaType::Int,   13,   14,   15,
+    QMetaType::Void, QMetaType::QString,   17,
+    QMetaType::Void, QMetaType::Bool,   19,
+    QMetaType::Void, QMetaType::Int,   21,
+    QMetaType::Void, QMetaType::Int,   23,
+    QMetaType::Void,
 
        0        // eod
 };
@@ -110,10 +168,23 @@ Q_CONSTINIT const QMetaObject MainWindow::staticMetaObject = { {
     qt_incomplete_metaTypeArray<qt_meta_stringdata_MainWindow_t,
         // Q_OBJECT / Q_GADGET
         QtPrivate::TypeAndForceComplete<MainWindow, std::true_type>,
+        // method 'onRelayConnectClicked'
+        QtPrivate::TypeAndForceComplete<void, std::false_type>,
+        // method 'onDacConnectClicked'
+        QtPrivate::TypeAndForceComplete<void, std::false_type>,
         // method 'onStartClicked'
         QtPrivate::TypeAndForceComplete<void, std::false_type>,
         // method 'onStopClicked'
         QtPrivate::TypeAndForceComplete<void, std::false_type>,
+        // method 'onTableStateClicked'
+        QtPrivate::TypeAndForceComplete<void, std::false_type>,
+        QtPrivate::TypeAndForceComplete<QTableWidgetItem *, std::false_type>,
+        // method 'handleRelayConnect'
+        QtPrivate::TypeAndForceComplete<void, std::false_type>,
+        QtPrivate::TypeAndForceComplete<bool, std::false_type>,
+        // method 'handleDAQConnect'
+        QtPrivate::TypeAndForceComplete<void, std::false_type>,
+        QtPrivate::TypeAndForceComplete<bool, std::false_type>,
         // method 'handleRelayUpdate'
         QtPrivate::TypeAndForceComplete<void, std::false_type>,
         QtPrivate::TypeAndForceComplete<int, std::false_type>,
@@ -124,7 +195,15 @@ Q_CONSTINIT const QMetaObject MainWindow::staticMetaObject = { {
         QtPrivate::TypeAndForceComplete<const QString &, std::false_type>,
         // method 'handleFinished'
         QtPrivate::TypeAndForceComplete<void, std::false_type>,
-        QtPrivate::TypeAndForceComplete<bool, std::false_type>
+        QtPrivate::TypeAndForceComplete<bool, std::false_type>,
+        // method 'handleCyclesRemaining'
+        QtPrivate::TypeAndForceComplete<void, std::false_type>,
+        QtPrivate::TypeAndForceComplete<int, std::false_type>,
+        // method 'handleTimeRemaining'
+        QtPrivate::TypeAndForceComplete<void, std::false_type>,
+        QtPrivate::TypeAndForceComplete<int, std::false_type>,
+        // method 'updateCountdown'
+        QtPrivate::TypeAndForceComplete<void, std::false_type>
     >,
     nullptr
 } };
@@ -135,11 +214,19 @@ void MainWindow::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, 
         auto *_t = static_cast<MainWindow *>(_o);
         (void)_t;
         switch (_id) {
-        case 0: _t->onStartClicked(); break;
-        case 1: _t->onStopClicked(); break;
-        case 2: _t->handleRelayUpdate((*reinterpret_cast< std::add_pointer_t<int>>(_a[1])),(*reinterpret_cast< std::add_pointer_t<bool>>(_a[2])),(*reinterpret_cast< std::add_pointer_t<int>>(_a[3]))); break;
-        case 3: _t->handleLog((*reinterpret_cast< std::add_pointer_t<QString>>(_a[1]))); break;
-        case 4: _t->handleFinished((*reinterpret_cast< std::add_pointer_t<bool>>(_a[1]))); break;
+        case 0: _t->onRelayConnectClicked(); break;
+        case 1: _t->onDacConnectClicked(); break;
+        case 2: _t->onStartClicked(); break;
+        case 3: _t->onStopClicked(); break;
+        case 4: _t->onTableStateClicked((*reinterpret_cast< std::add_pointer_t<QTableWidgetItem*>>(_a[1]))); break;
+        case 5: _t->handleRelayConnect((*reinterpret_cast< std::add_pointer_t<bool>>(_a[1]))); break;
+        case 6: _t->handleDAQConnect((*reinterpret_cast< std::add_pointer_t<bool>>(_a[1]))); break;
+        case 7: _t->handleRelayUpdate((*reinterpret_cast< std::add_pointer_t<int>>(_a[1])),(*reinterpret_cast< std::add_pointer_t<bool>>(_a[2])),(*reinterpret_cast< std::add_pointer_t<int>>(_a[3]))); break;
+        case 8: _t->handleLog((*reinterpret_cast< std::add_pointer_t<QString>>(_a[1]))); break;
+        case 9: _t->handleFinished((*reinterpret_cast< std::add_pointer_t<bool>>(_a[1]))); break;
+        case 10: _t->handleCyclesRemaining((*reinterpret_cast< std::add_pointer_t<int>>(_a[1]))); break;
+        case 11: _t->handleTimeRemaining((*reinterpret_cast< std::add_pointer_t<int>>(_a[1]))); break;
+        case 12: _t->updateCountdown(); break;
         default: ;
         }
     }
@@ -164,13 +251,13 @@ int MainWindow::qt_metacall(QMetaObject::Call _c, int _id, void **_a)
     if (_id < 0)
         return _id;
     if (_c == QMetaObject::InvokeMetaMethod) {
-        if (_id < 5)
+        if (_id < 13)
             qt_static_metacall(this, _c, _id, _a);
-        _id -= 5;
+        _id -= 13;
     } else if (_c == QMetaObject::RegisterMethodArgumentMetaType) {
-        if (_id < 5)
+        if (_id < 13)
             *reinterpret_cast<QMetaType *>(_a[0]) = QMetaType();
-        _id -= 5;
+        _id -= 13;
     }
     return _id;
 }

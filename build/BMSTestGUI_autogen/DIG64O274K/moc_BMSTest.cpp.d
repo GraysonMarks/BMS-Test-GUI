@@ -1,7 +1,7 @@
-/home/pie/Documents/Repos/BMS-Test-GUI/build/BMSTestGUI_autogen/DIG64O274K/moc_BMSTest.cpp: /home/pie/Documents/Repos/BMS-Test-GUI/inc/BMSTest.h \
-  /home/pie/Documents/Repos/BMS-Test-GUI/build/BMSTestGUI_autogen/moc_predefs.h \
-  /home/pie/Documents/Repos/BMS-Test-GUI/inc/DAQ.h \
-  /home/pie/Documents/Repos/BMS-Test-GUI/inc/RelayController.h \
+/home/pie/Documents/BMS-Test-GUI/build/BMSTestGUI_autogen/DIG64O274K/moc_BMSTest.cpp: /home/pie/Documents/BMS-Test-GUI/inc/BMSTest.h \
+  /home/pie/Documents/BMS-Test-GUI/build/BMSTestGUI_autogen/moc_predefs.h \
+  /home/pie/Documents/BMS-Test-GUI/inc/DAQ.h \
+  /home/pie/Documents/BMS-Test-GUI/inc/RelayController.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \
@@ -312,7 +312,9 @@
   /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
   /usr/include/x86_64-linux-gnu/gnu/stubs.h \
   /usr/include/x86_64-linux-gnu/qt6/QtCore/QObject \
+  /usr/include/x86_64-linux-gnu/qt6/QtCore/QString \
   /usr/include/x86_64-linux-gnu/qt6/QtCore/QThread \
+  /usr/include/x86_64-linux-gnu/qt6/QtCore/QVector \
   /usr/include/x86_64-linux-gnu/qt6/QtCore/qalgorithms.h \
   /usr/include/x86_64-linux-gnu/qt6/QtCore/qanystringview.h \
   /usr/include/x86_64-linux-gnu/qt6/QtCore/qarraydata.h \
@@ -380,6 +382,7 @@
   /usr/include/x86_64-linux-gnu/qt6/QtCore/qtmetamacros.h \
   /usr/include/x86_64-linux-gnu/qt6/QtCore/qtypeinfo.h \
   /usr/include/x86_64-linux-gnu/qt6/QtCore/qutf8stringview.h \
+  /usr/include/x86_64-linux-gnu/qt6/QtCore/qvector.h \
   /usr/include/x86_64-linux-gnu/qt6/QtCore/qversiontagging.h \
   /usr/include/x86_64-linux-gnu/sys/cdefs.h \
   /usr/include/x86_64-linux-gnu/sys/select.h \

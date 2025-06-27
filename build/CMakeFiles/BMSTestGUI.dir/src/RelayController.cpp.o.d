@@ -1,7 +1,7 @@
 CMakeFiles/BMSTestGUI.dir/src/RelayController.cpp.o: \
- /home/pie/Documents/Repos/BMS-Test-GUI/src/RelayController.cpp \
+ /home/pie/Documents/BMS-Test-GUI/src/RelayController.cpp \
  /usr/include/stdc-predef.h \
- /home/pie/Documents/Repos/BMS-Test-GUI/src/../inc/RelayController.h \
+ /home/pie/Documents/BMS-Test-GUI/src/../inc/RelayController.h \
  /usr/include/c++/13/iostream /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \

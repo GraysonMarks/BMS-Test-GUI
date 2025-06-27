@@ -1,7 +1,7 @@
 CMakeFiles/BMSTestGUI.dir/BMSTestGUI_autogen/mocs_compilation.cpp.o: \
- /home/pie/Documents/Repos/BMS-Test-GUI/build/BMSTestGUI_autogen/mocs_compilation.cpp \
+ /home/pie/Documents/BMS-Test-GUI/build/BMSTestGUI_autogen/mocs_compilation.cpp \
  /usr/include/stdc-predef.h \
- /home/pie/Documents/Repos/BMS-Test-GUI/build/BMSTestGUI_autogen/DIG64O274K/moc_BMSTest.cpp \
+ /home/pie/Documents/BMS-Test-GUI/build/BMSTestGUI_autogen/DIG64O274K/moc_BMSTest.cpp \
  /usr/include/c++/13/memory /usr/include/c++/13/bits/memoryfwd.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \
@@ -116,7 +116,7 @@ CMakeFiles/BMSTestGUI.dir/BMSTestGUI_autogen/mocs_compilation.cpp.o: \
  /usr/include/c++/13/backward/auto_ptr.h \
  /usr/include/c++/13/pstl/glue_memory_defs.h \
  /usr/include/c++/13/pstl/execution_defs.h \
- /home/pie/Documents/Repos/BMS-Test-GUI/build/BMSTestGUI_autogen/DIG64O274K/../../../inc/BMSTest.h \
+ /home/pie/Documents/BMS-Test-GUI/build/BMSTestGUI_autogen/DIG64O274K/../../../inc/BMSTest.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QThread \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qthread.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qobject.h \
@@ -296,7 +296,11 @@ CMakeFiles/BMSTestGUI.dir/BMSTestGUI_autogen/mocs_compilation.cpp.o: \
  /usr/include/c++/13/bits/std_thread.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QObject \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qobject.h \
- /home/pie/Documents/Repos/BMS-Test-GUI/build/BMSTestGUI_autogen/DIG64O274K/../../../inc/../inc/RelayController.h \
+ /usr/include/x86_64-linux-gnu/qt6/QtCore/QVector \
+ /usr/include/x86_64-linux-gnu/qt6/QtCore/qvector.h \
+ /usr/include/x86_64-linux-gnu/qt6/QtCore/QString \
+ /usr/include/x86_64-linux-gnu/qt6/QtCore/qstring.h \
+ /home/pie/Documents/BMS-Test-GUI/build/BMSTestGUI_autogen/DIG64O274K/../../../inc/../inc/RelayController.h \
  /usr/include/c++/13/iostream /usr/include/c++/13/ostream \
  /usr/include/c++/13/ios /usr/include/c++/13/bits/basic_ios.h \
  /usr/include/c++/13/bits/locale_facets.h /usr/include/c++/13/cwctype \
@@ -322,13 +326,15 @@ CMakeFiles/BMSTestGUI.dir/BMSTestGUI_autogen/mocs_compilation.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/termios-tcflow.h \
  /usr/include/x86_64-linux-gnu/bits/termios-misc.h \
  /usr/include/x86_64-linux-gnu/sys/ttydefaults.h \
- /home/pie/Documents/Repos/BMS-Test-GUI/build/BMSTestGUI_autogen/DIG64O274K/../../../inc/../inc/DAQ.h \
+ /home/pie/Documents/BMS-Test-GUI/build/BMSTestGUI_autogen/DIG64O274K/../../../inc/../inc/DAQ.h \
  /usr/include/c++/13/fstream /usr/include/c++/13/bits/codecvt.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/basic_file.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++io.h \
  /usr/include/c++/13/bits/fstream.tcc \
- /home/pie/Documents/Repos/BMS-Test-GUI/build/BMSTestGUI_autogen/DIG64O274K/moc_MainWindow.cpp \
- /home/pie/Documents/Repos/BMS-Test-GUI/build/BMSTestGUI_autogen/DIG64O274K/../../../inc/MainWindow.h \
+ /usr/include/x86_64-linux-gnu/qt6/QtCore/QList \
+ /usr/include/x86_64-linux-gnu/qt6/QtCore/qlist.h \
+ /home/pie/Documents/BMS-Test-GUI/build/BMSTestGUI_autogen/DIG64O274K/moc_MainWindow.cpp \
+ /home/pie/Documents/BMS-Test-GUI/build/BMSTestGUI_autogen/DIG64O274K/../../../inc/MainWindow.h \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QMainWindow \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qmainwindow.h \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qtwidgetsglobal.h \
@@ -405,6 +411,12 @@ CMakeFiles/BMSTestGUI.dir/BMSTestGUI_autogen/mocs_compilation.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QPushButton \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qpushbutton.h \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qabstractbutton.h \
+ /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QLabel \
+ /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qlabel.h \
+ /usr/include/x86_64-linux-gnu/qt6/QtGui/qpicture.h \
+ /usr/include/x86_64-linux-gnu/qt6/QtCore/qiodevice.h \
+ /usr/include/x86_64-linux-gnu/qt6/QtGui/qtextdocument.h \
+ /usr/include/x86_64-linux-gnu/qt6/QtCore/qurl.h \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QTableWidget \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qtablewidget.h \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qtableview.h \
@@ -413,12 +425,13 @@ CMakeFiles/BMSTestGUI.dir/BMSTestGUI_autogen/mocs_compilation.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qitemselectionmodel.h \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QTextEdit \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qtextedit.h \
- /usr/include/x86_64-linux-gnu/qt6/QtGui/qtextdocument.h \
- /usr/include/x86_64-linux-gnu/qt6/QtCore/qurl.h \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qtextoption.h \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qtextcursor.h \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qtextformat.h \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qpen.h \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QSpinBox \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qspinbox.h \
- /home/pie/Documents/Repos/BMS-Test-GUI/build/BMSTestGUI_autogen/DIG64O274K/../../../inc/../inc/BMSTest.h
+ /usr/include/x86_64-linux-gnu/qt6/QtCore/QTimer \
+ /usr/include/x86_64-linux-gnu/qt6/QtCore/qtimer.h \
+ /usr/include/x86_64-linux-gnu/qt6/QtCore/qbasictimer.h \
+ /home/pie/Documents/BMS-Test-GUI/build/BMSTestGUI_autogen/DIG64O274K/../../../inc/../inc/BMSTest.h

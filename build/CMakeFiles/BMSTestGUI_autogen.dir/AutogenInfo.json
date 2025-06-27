@@ -1,15 +1,15 @@
 {
-	"BUILD_DIR" : "/home/pie/Documents/Repos/BMS-Test-GUI/build/BMSTestGUI_autogen",
-	"CMAKE_BINARY_DIR" : "/home/pie/Documents/Repos/BMS-Test-GUI/build",
-	"CMAKE_CURRENT_BINARY_DIR" : "/home/pie/Documents/Repos/BMS-Test-GUI/build",
-	"CMAKE_CURRENT_SOURCE_DIR" : "/home/pie/Documents/Repos/BMS-Test-GUI",
+	"BUILD_DIR" : "/home/pie/Documents/BMS-Test-GUI/build/BMSTestGUI_autogen",
+	"CMAKE_BINARY_DIR" : "/home/pie/Documents/BMS-Test-GUI/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/pie/Documents/BMS-Test-GUI/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/pie/Documents/BMS-Test-GUI",
 	"CMAKE_EXECUTABLE" : "/home/pie/st/stm32cubeclt_1.18.0/CMake/bin/cmake",
 	"CMAKE_LIST_FILES" : 
 	[
-		"/home/pie/Documents/Repos/BMS-Test-GUI/CMakeLists.txt",
+		"/home/pie/Documents/BMS-Test-GUI/CMakeLists.txt",
 		"/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeDetermineSystem.cmake",
 		"/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeSystem.cmake.in",
-		"/home/pie/Documents/Repos/BMS-Test-GUI/build/CMakeFiles/3.28.1/CMakeSystem.cmake",
+		"/home/pie/Documents/BMS-Test-GUI/build/CMakeFiles/3.28.1/CMakeSystem.cmake",
 		"/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeUnixFindMake.cmake",
 		"/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake",
 		"/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Platform/Linux-Initialize.cmake",
@@ -64,7 +64,7 @@
 		"/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeFindBinUtils.cmake",
 		"/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/GNU-FindBinUtils.cmake",
 		"/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeCCompiler.cmake.in",
-		"/home/pie/Documents/Repos/BMS-Test-GUI/build/CMakeFiles/3.28.1/CMakeCCompiler.cmake",
+		"/home/pie/Documents/BMS-Test-GUI/build/CMakeFiles/3.28.1/CMakeCCompiler.cmake",
 		"/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake",
 		"/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeDetermineCompiler.cmake",
 		"/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Platform/Linux-Determine-CXX.cmake",
@@ -115,7 +115,7 @@
 		"/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeFindBinUtils.cmake",
 		"/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/GNU-FindBinUtils.cmake",
 		"/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeCXXCompiler.cmake.in",
-		"/home/pie/Documents/Repos/BMS-Test-GUI/build/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake",
+		"/home/pie/Documents/BMS-Test-GUI/build/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake",
 		"/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake",
 		"/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeGenericSystem.cmake",
 		"/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake",
@@ -140,7 +140,7 @@
 		"/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeDetermineCompileFeatures.cmake",
 		"/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Internal/FeatureTesting.cmake",
 		"/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeCCompiler.cmake.in",
-		"/home/pie/Documents/Repos/BMS-Test-GUI/build/CMakeFiles/3.28.1/CMakeCCompiler.cmake",
+		"/home/pie/Documents/BMS-Test-GUI/build/CMakeFiles/3.28.1/CMakeCCompiler.cmake",
 		"/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeCXXInformation.cmake",
 		"/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake",
 		"/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Compiler/GNU-CXX.cmake",
@@ -159,7 +159,7 @@
 		"/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeDetermineCompileFeatures.cmake",
 		"/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/Internal/FeatureTesting.cmake",
 		"/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeCXXCompiler.cmake.in",
-		"/home/pie/Documents/Repos/BMS-Test-GUI/build/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake",
+		"/home/pie/Documents/BMS-Test-GUI/build/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake",
 		"/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/FindPkgConfig.cmake",
 		"/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake",
 		"/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/FindPackageMessage.cmake",
@@ -317,28 +317,35 @@
 		"/usr/lib/x86_64-linux-gnu/cmake/Qt6SerialPort/Qt6SerialPortAdditionalTargetInfo.cmake",
 		"/usr/lib/x86_64-linux-gnu/cmake/Qt6SerialPort/Qt6SerialPortVersionlessTargets.cmake"
 	],
-	"CMAKE_SOURCE_DIR" : "/home/pie/Documents/Repos/BMS-Test-GUI",
-	"DEP_FILE" : "/home/pie/Documents/Repos/BMS-Test-GUI/build/BMSTestGUI_autogen/deps",
+	"CMAKE_SOURCE_DIR" : "/home/pie/Documents/BMS-Test-GUI",
+	"DEP_FILE" : "/home/pie/Documents/BMS-Test-GUI/build/BMSTestGUI_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "BMSTestGUI_autogen/timestamp",
 	"HEADERS" : 
 	[
 		[
-			"/home/pie/Documents/Repos/BMS-Test-GUI/inc/BMSTest.h",
+			"/home/pie/Documents/BMS-Test-GUI/inc/BMSTest.h",
 			"Mu",
 			"DIG64O274K/moc_BMSTest.cpp",
 			null
 		],
 		[
-			"/home/pie/Documents/Repos/BMS-Test-GUI/inc/MainWindow.h",
+			"/home/pie/Documents/BMS-Test-GUI/inc/MainWindow.h",
 			"Mu",
 			"DIG64O274K/moc_MainWindow.cpp",
 			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "/home/pie/Documents/Repos/BMS-Test-GUI/build/BMSTestGUI_autogen/include",
-	"MOC_COMPILATION_FILE" : "/home/pie/Documents/Repos/BMS-Test-GUI/build/BMSTestGUI_autogen/mocs_compilation.cpp",
-	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_SERIALPORT_LIB", "QT_WIDGETS_LIB" ],
+	"INCLUDE_DIR" : "/home/pie/Documents/BMS-Test-GUI/build/BMSTestGUI_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/pie/Documents/BMS-Test-GUI/build/BMSTestGUI_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NO_DEBUG",
+		"QT_SERIALPORT_LIB",
+		"QT_WIDGETS_LIB"
+	],
 	"MOC_DEPEND_FILTERS" : 
 	[
 		[
@@ -348,7 +355,7 @@
 	],
 	"MOC_INCLUDES" : 
 	[
-		"/home/pie/Documents/Repos/BMS-Test-GUI/inc",
+		"/home/pie/Documents/BMS-Test-GUI/inc",
 		"/usr/include/x86_64-linux-gnu/qt6/QtCore",
 		"/usr/include/x86_64-linux-gnu/qt6",
 		"/usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++",
@@ -382,32 +389,28 @@
 		"-c",
 		"/home/pie/st/stm32cubeclt_1.18.0/CMake/share/cmake-3.28/Modules/CMakeCXXCompilerABI.cpp"
 	],
-	"MOC_PREDEFS_FILE" : "/home/pie/Documents/Repos/BMS-Test-GUI/build/BMSTestGUI_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE" : "/home/pie/Documents/BMS-Test-GUI/build/BMSTestGUI_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : [],
 	"MULTI_CONFIG" : false,
 	"PARALLEL" : 6,
-	"PARSE_CACHE_FILE" : "/home/pie/Documents/Repos/BMS-Test-GUI/build/CMakeFiles/BMSTestGUI_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE" : "/home/pie/Documents/BMS-Test-GUI/build/CMakeFiles/BMSTestGUI_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "/usr/lib/qt6/libexec/moc",
 	"QT_UIC_EXECUTABLE" : "",
 	"QT_VERSION_MAJOR" : 6,
 	"QT_VERSION_MINOR" : 4,
-	"SETTINGS_FILE" : "/home/pie/Documents/Repos/BMS-Test-GUI/build/CMakeFiles/BMSTestGUI_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "/home/pie/Documents/BMS-Test-GUI/build/CMakeFiles/BMSTestGUI_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
-		[ "/home/pie/Documents/Repos/BMS-Test-GUI/src/BMSTest.cpp", "Mu", null ],
-		[ "/home/pie/Documents/Repos/BMS-Test-GUI/src/DAQ.cpp", "Mu", null ],
+		[ "/home/pie/Documents/BMS-Test-GUI/src/BMSTest.cpp", "Mu", null ],
+		[ "/home/pie/Documents/BMS-Test-GUI/src/DAQ.cpp", "Mu", null ],
+		[ "/home/pie/Documents/BMS-Test-GUI/src/MainWindow.cpp", "Mu", null ],
 		[
-			"/home/pie/Documents/Repos/BMS-Test-GUI/src/MainWindow.cpp",
+			"/home/pie/Documents/BMS-Test-GUI/src/RelayController.cpp",
 			"Mu",
 			null
 		],
-		[
-			"/home/pie/Documents/Repos/BMS-Test-GUI/src/RelayController.cpp",
-			"Mu",
-			null
-		],
-		[ "/home/pie/Documents/Repos/BMS-Test-GUI/src/main.cpp", "Mu", null ]
+		[ "/home/pie/Documents/BMS-Test-GUI/src/main.cpp", "Mu", null ]
 	],
 	"VERBOSITY" : 0
 }

@@ -55,7 +55,6 @@ void MainWindow::setupUi() {
     comboRelayPort_->setEditable(true);
     ctrlLay->addWidget(comboRelayPort_, 0, 1);
     relayConnectBtn_ = new QPushButton("Connect");
-    relayConnectBtn_->setMinimumSize(new QSize());
     ctrlLay->addWidget(relayConnectBtn_, 0, 2);
     relayStatusLabel_ = new QLabel("Not connected");
     ctrlLay->addWidget(relayStatusLabel_, 0, 3);

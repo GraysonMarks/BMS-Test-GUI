@@ -1,5 +1,5 @@
-/home/pie/Documents/Repos/BMS-Test-GUI/build/CMakeFiles/BMSTestGUI.dir
-/home/pie/Documents/Repos/BMS-Test-GUI/build/CMakeFiles/edit_cache.dir
-/home/pie/Documents/Repos/BMS-Test-GUI/build/CMakeFiles/rebuild_cache.dir
-/home/pie/Documents/Repos/BMS-Test-GUI/build/CMakeFiles/BMSTestGUI_autogen_timestamp_deps.dir
-/home/pie/Documents/Repos/BMS-Test-GUI/build/CMakeFiles/BMSTestGUI_autogen.dir
+/home/pie/Documents/BMS-Test-GUI/build/CMakeFiles/BMSTestGUI.dir
+/home/pie/Documents/BMS-Test-GUI/build/CMakeFiles/edit_cache.dir
+/home/pie/Documents/BMS-Test-GUI/build/CMakeFiles/rebuild_cache.dir
+/home/pie/Documents/BMS-Test-GUI/build/CMakeFiles/BMSTestGUI_autogen_timestamp_deps.dir
+/home/pie/Documents/BMS-Test-GUI/build/CMakeFiles/BMSTestGUI_autogen.dir

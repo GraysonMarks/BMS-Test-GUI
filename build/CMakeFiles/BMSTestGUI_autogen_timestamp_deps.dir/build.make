@@ -53,10 +53,10 @@ RM = /home/pie/st/stm32cubeclt_1.18.0/CMake/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/pie/Documents/Repos/BMS-Test-GUI
+CMAKE_SOURCE_DIR = /home/pie/Documents/BMS-Test-GUI
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/pie/Documents/Repos/BMS-Test-GUI/build
+CMAKE_BINARY_DIR = /home/pie/Documents/BMS-Test-GUI/build
 
 # Utility rule file for BMSTestGUI_autogen_timestamp_deps.
 
@@ -84,6 +84,6 @@ CMakeFiles/BMSTestGUI_autogen_timestamp_deps.dir/clean:
 .PHONY : CMakeFiles/BMSTestGUI_autogen_timestamp_deps.dir/clean
 
 CMakeFiles/BMSTestGUI_autogen_timestamp_deps.dir/depend:
-	cd /home/pie/Documents/Repos/BMS-Test-GUI/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/pie/Documents/Repos/BMS-Test-GUI /home/pie/Documents/Repos/BMS-Test-GUI /home/pie/Documents/Repos/BMS-Test-GUI/build /home/pie/Documents/Repos/BMS-Test-GUI/build /home/pie/Documents/Repos/BMS-Test-GUI/build/CMakeFiles/BMSTestGUI_autogen_timestamp_deps.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/pie/Documents/BMS-Test-GUI/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/pie/Documents/BMS-Test-GUI /home/pie/Documents/BMS-Test-GUI /home/pie/Documents/BMS-Test-GUI/build /home/pie/Documents/BMS-Test-GUI/build /home/pie/Documents/BMS-Test-GUI/build/CMakeFiles/BMSTestGUI_autogen_timestamp_deps.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/BMSTestGUI_autogen_timestamp_deps.dir/depend
 
